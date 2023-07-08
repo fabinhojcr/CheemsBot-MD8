@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "DGXeon",
+  "author": "Carioca",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "npm:@ferdiz-afk/baileys",
@@ -94,10 +94,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon/CheemsBot-MD8.git"
+    "url": "git+https://github.com/fabinhojcr/CheemsBot-MD8.git"
   },
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD8/issues"
+    "url": "https://github.com/fabinhojcr/CheemsBot-MD8/issues"
   },
-  "homepage": "https://github.com/DGXeon/CheemsBot-MD8/#readme"
+  "homepage": "https://github.com/fabinhojcr/CheemsBot-MD8/#readme"
 }

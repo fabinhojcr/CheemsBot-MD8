@@ -10,7 +10,7 @@ global.antispam = false //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
-global.keyopenai = "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"
+global.keyopenai = "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"
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -36,7 +36,7 @@ global.ownerNumber = ["5521979071302@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/"
 global.websitex = "https://youtu.be/"
 global.wagc = "https://chat.whatsapp.com/"
-global.themeemoji = '🪀'
+global.themeemoji = '😈'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/fabinhojcr/CheemsBot-MD8' //script link
 global.packname = "Sticker By"
